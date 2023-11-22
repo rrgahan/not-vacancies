@@ -1,0 +1,4 @@
+baseURL = 'http://notvacancies.org/'
+languageCode = 'en-us'
+title = 'Not Vacancies'
+theme = 'Main'
